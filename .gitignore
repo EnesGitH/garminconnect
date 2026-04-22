@@ -1,0 +1,5 @@
+.env
+garmin_daily_report.txt
+__pycache__/
+*.pyc
+.venv/
